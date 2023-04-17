@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        String[][]array = {{"1", "null", "5"}, {"8", "0"}, {"if", "45", "32165498798787"}};
-        sum2d(array);
+        String[][]arr = {{"1", "null", "5"}, {"8", "0"}, {"if", "45", "32165498798787"}};
+        sum2d(ar);
     }
 
     public static int sum2d(String[][] arr) {
